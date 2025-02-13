@@ -5,7 +5,7 @@ This plugin provides completion for [pnpm](https://pnpm.io/).
 To use it copy it to `$ZSH`
 
 ```zsh
-cp -r ./pnpm $ZSH/plugins/pnpm
+cp -r ./pnpm $ZSH_CUSTOM/plugins/pnpm
 ```
 
 and add pnpm to the plugins array in your zshrc file.
